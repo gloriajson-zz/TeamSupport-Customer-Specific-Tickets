@@ -400,11 +400,11 @@ function createTickets(customer, product, type){
       statusid = "55085";
     }else if(type == "10330"){
       statusid = "55097";
-    }else if(type == "10331"){
+    }else if(type == "15440"){
       statusid = "93204";
-    }else if(type == "10332"){
+    }else if(type == "16621"){
       statusid = "100464";
-    }else if(type == "10333"){
+    }else if(type == "53129"){
       statusid = "302815";
     }else{
       statusid = "55067";
